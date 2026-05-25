@@ -1,0 +1,614 @@
+{
+  "Imobilizados": [
+    {
+      "Categoria": "Cozinha/Café",
+      "Item": "Balcão Expositor Vitrine Refrigerada",
+      "Quantidade": 1.0,
+      "Descricao": "Vitrine de vidro para bolos e doces com iluminação LED",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Cozinha/Café",
+      "Item": "Forno Elétrico Turbo Profissional",
+      "Quantidade": 1.0,
+      "Descricao": "Forno de alta capacidade para assar bolos e salgados rápidos",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Cozinha/Café",
+      "Item": "Refrigerador Vertical Comercial",
+      "Quantidade": 2.0,
+      "Descricao": "Geladeira vertical para insumos e bebidas do balcão",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Cozinha/Café",
+      "Item": "Freezer Vertical Comercial",
+      "Quantidade": 1.0,
+      "Descricao": "Equipamento para estocagem de insumos congelados",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Cozinha/Café",
+      "Item": "Bancada de Inox com Cuba",
+      "Quantidade": 2.0,
+      "Descricao": "Bancadas profissionais para manipulação e higienização",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Cozinha/Café",
+      "Item": "Kit PDV Físico Completo",
+      "Quantidade": 1.0,
+      "Descricao": "Computador gaveta impressora térmica e leitor de código",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Cozinha/Café",
+      "Item": "Enxoval de Louças e Utensílios",
+      "Quantidade": 1.0,
+      "Descricao": "Conjunto de xícaras pratos talheres e copos para 50 pessoas",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Divisória Acústica de Vidro e Drywall",
+      "Quantidade": 1.0,
+      "Descricao": "Estrutura de isolamento com lã de rocha e painéis de vidro duplo",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Mesa Comunitária Retangular",
+      "Quantidade": 8.0,
+      "Descricao": "Mesas grandes de madeira escura para comensalidade (8 lugares)",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Cadeira para Mesas Comunitárias",
+      "Quantidade": 65.0,
+      "Descricao": "Cadeiras de madeira resistentes para o salão principal",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Poltrona Confortável Lounge",
+      "Quantidade": 10.0,
+      "Descricao": "Poltronas estofadas para a área de descompressão",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Pufe Confortável Lounge",
+      "Quantidade": 10.0,
+      "Descricao": "Pufes grandes para assento livre e flexível no lounge",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Mesa Redonda Central Grande",
+      "Quantidade": 1.0,
+      "Descricao": "Mesa institucional para 14 lugares com gravação da pena de Maat",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Cadeira da Mesa Central",
+      "Quantidade": 14.0,
+      "Descricao": "Cadeiras de madeira ergonômicas para a equipe",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Estante de Livros Modular",
+      "Quantidade": 6.0,
+      "Descricao": "Prateleiras verticais fixadas na parede para exposição e venda",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Tapete Acústico Antialérgico Grande",
+      "Quantidade": 2.0,
+      "Descricao": "Tapetes espessos para absorção sonora no espaço do lounge",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Câmera Filmadora Profissional",
+      "Quantidade": 2.0,
+      "Descricao": "Câmeras para captação e transmissão dos encontros literários",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Kit de Áudio Integrado",
+      "Quantidade": 1.0,
+      "Descricao": "Mesa de som pequena 2 microfones lapela e 2 condensadores",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Computador Ilha de Edição (AV)",
+      "Quantidade": 1.0,
+      "Descricao": "PC de alta performance para processamento de áudio e vídeo",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Mesa de Trabalho AV e Cadeira",
+      "Quantidade": 1.0,
+      "Descricao": "Estação operacional para os técnicos de audiovisual",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Clube de Leitura",
+      "Item": "Roteador Wi-Fi Mesh Corporativo",
+      "Quantidade": 3.0,
+      "Descricao": "Roteadores de alta densidade para conexões simultâneas",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Área Externa",
+      "Item": "Mesa de Madeira Dobrável",
+      "Quantidade": 10.0,
+      "Descricao": "Mesa externa estilo praça para calçada e deck",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Área Externa",
+      "Item": "Cadeira de Madeira Dobrável",
+      "Quantidade": 40.0,
+      "Descricao": "Cadeiras dobráveis combinando com as mesas externas",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Área Externa",
+      "Item": "Bicicletário de Chão",
+      "Quantidade": 2.0,
+      "Descricao": "Estrutura de ferro para suporte e estímulo à mobilidade ativa",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    },
+    {
+      "Categoria": "Área Externa",
+      "Item": "Varal de Luzes Externas",
+      "Quantidade": 5.0,
+      "Descricao": "Kits de 10 metros com lâmpadas LED estilo retrô",
+      "Valor Unitario (R$)": null,
+      "Valor Total (R$)": null
+    }
+  ],
+  "Mercadorias": [
+    {
+      "Fornecedor": "Ciranda Cultural",
+      "Categoria": "Cultura",
+      "Item": "Lote de Livros - Clube de Leitura",
+      "Descricao": "Títulos selecionados para os debates do mês",
+      "Unidade de Medida": "Unidade",
+      "Quantidade Estimada (Mensal)": 30.0
+    },
+    {
+      "Fornecedor": "Ciranda Cultural",
+      "Categoria": "Cultura",
+      "Item": "Lote de Livros - Sorteios",
+      "Descricao": "Exemplares para sorteio do Passaporte Literário",
+      "Unidade de Medida": "Unidade",
+      "Quantidade Estimada (Mensal)": 10.0
+    },
+    {
+      "Fornecedor": "Amiste Café",
+      "Categoria": "Bebidas Quentes",
+      "Item": "Café em Grãos Especial",
+      "Descricao": "Grãos para máquina de espresso",
+      "Unidade de Medida": "Kg",
+      "Quantidade Estimada (Mensal)": 15.0
+    },
+    {
+      "Fornecedor": "Amiste Café",
+      "Categoria": "Bebidas Quentes",
+      "Item": "Preparo para Cappuccino",
+      "Descricao": "Mix em pó para máquina/preparo",
+      "Unidade de Medida": "Kg",
+      "Quantidade Estimada (Mensal)": 10.0
+    },
+    {
+      "Fornecedor": "Amiste Café",
+      "Categoria": "Bebidas Quentes",
+      "Item": "Preparo para Chocolate",
+      "Descricao": "Mix em pó para bebidas quentes",
+      "Unidade de Medida": "Kg",
+      "Quantidade Estimada (Mensal)": 5.0
+    },
+    {
+      "Fornecedor": "Amiste Café",
+      "Categoria": "Insumos Extras",
+      "Item": "Xaropes Flavorizantes",
+      "Descricao": "Frutas vermelhas e limão para refrescos",
+      "Unidade de Medida": "Garrafa",
+      "Quantidade Estimada (Mensal)": 4.0
+    },
+    {
+      "Fornecedor": "Amiste Café",
+      "Categoria": "Bebidas Quentes",
+      "Item": "Chás Especiais",
+      "Descricao": "Sachês premium (camomila hortelã maçã com canela)",
+      "Unidade de Medida": "Caixa",
+      "Quantidade Estimada (Mensal)": 10.0
+    },
+    {
+      "Fornecedor": "Grupo 3 Corações",
+      "Categoria": "Bebidas Quentes",
+      "Item": "Café Tradicional Moído",
+      "Descricao": "Para o preparo do Café Coado Da Casa e Pingado",
+      "Unidade de Medida": "Kg",
+      "Quantidade Estimada (Mensal)": 20.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Alimentos Congelados",
+      "Item": "Pão de Queijo Tradicional",
+      "Descricao": "Pacotes de 1kg - congelado",
+      "Unidade de Medida": "Kg",
+      "Quantidade Estimada (Mensal)": 30.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Alimentos Congelados",
+      "Item": "Pão de Queijo Recheado",
+      "Descricao": "Pacotes de 1kg - recheado com requeijão",
+      "Unidade de Medida": "Kg",
+      "Quantidade Estimada (Mensal)": 15.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Alimentos Congelados",
+      "Item": "Quiches e Empadas",
+      "Descricao": "Sabores: Alho-poró e Frango",
+      "Unidade de Medida": "Unidade",
+      "Quantidade Estimada (Mensal)": 100.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Laticínios e Frios",
+      "Item": "Leite Integral",
+      "Descricao": "Para bebidas vaporizadas (Pingado Latte)",
+      "Unidade de Medida": "Litro",
+      "Quantidade Estimada (Mensal)": 60.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Laticínios e Frios",
+      "Item": "Leite Sem Lactose",
+      "Descricao": "Para opções com acessibilidade alimentar",
+      "Unidade de Medida": "Litro",
+      "Quantidade Estimada (Mensal)": 20.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Laticínios e Frios",
+      "Item": "Queijo e Frios Fatiados",
+      "Descricao": "Muçarela e Presunto para Tostex Oikophilia",
+      "Unidade de Medida": "Kg",
+      "Quantidade Estimada (Mensal)": 10.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Mercearia",
+      "Item": "Pão de Forma Artesanal/Brioche",
+      "Descricao": "Pães fatiados para o Tostex Oikophilia",
+      "Unidade de Medida": "Pacote",
+      "Quantidade Estimada (Mensal)": 20.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Mercearia",
+      "Item": "Bolos Tradicionais e Brownies",
+      "Descricao": "Bolo de Vó (Fubá Cenoura Laranja) e Brownies",
+      "Unidade de Medida": "Bandeja",
+      "Quantidade Estimada (Mensal)": 30.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Bebidas Frias",
+      "Item": "Água com Gás",
+      "Descricao": "Para refil do Passaporte Literário",
+      "Unidade de Medida": "Fardo",
+      "Quantidade Estimada (Mensal)": 15.0
+    },
+    {
+      "Fornecedor": "Super Adega",
+      "Categoria": "Bebidas Frias",
+      "Item": "Água sem Gás",
+      "Descricao": "Para venda avulsa",
+      "Unidade de Medida": "Fardo",
+      "Quantidade Estimada (Mensal)": 10.0
+    }
+  ],
+  "desp_manutencao": [
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Higiene Banheiro",
+      "Item": "Papel Higiênico Interfolhado",
+      "Descrição": "Folha dupla, alta absorção para dispensers dos banheiros públicos",
+      "Unidade de Medida": "Fardo (c/ 6400 folhas)",
+      "Quantidade Estimada (Mensal)": 3.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Higiene Banheiro",
+      "Item": "Sabonete Líquido Neutro",
+      "Descrição": "Galão de 5L para abastecimento dos dispensers automáticos",
+      "Unidade de Medida": "Galão 5L",
+      "Quantidade Estimada (Mensal)": 2.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Higiene Banheiro",
+      "Item": "Papel Toalha Interfolhado",
+      "Descrição": "Para secagem das mãos nos banheiros e áreas comuns",
+      "Unidade de Medida": "Fardo (c/ 4800 folhas)",
+      "Quantidade Estimada (Mensal)": 4.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Limpeza Salão",
+      "Item": "Detergente Neutro Concentrado",
+      "Descrição": "Para lavagem das louças, copos e utensílios do Café",
+      "Unidade de Medida": "Caixa (c/ 24 un)",
+      "Quantidade Estimada (Mensal)": 1.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Limpeza Salão",
+      "Item": "Desinfetante Perfumado",
+      "Descrição": "Para higienização diária do piso do salão e lounge",
+      "Unidade de Medida": "Galão 5L",
+      "Quantidade Estimada (Mensal)": 3.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Limpeza Salão",
+      "Item": "Álcool 70% Líquido/Gel",
+      "Descrição": "Para higienização das mesas comunitárias e totens",
+      "Unidade de Medida": "Galão 5L",
+      "Quantidade Estimada (Mensal)": 2.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Limpeza Cozinha",
+      "Item": "Cloro Ativo / Água Sanitária",
+      "Descrição": "Higienização pesada da área de preparo e banheiros",
+      "Unidade de Medida": "Galão 5L",
+      "Quantidade Estimada (Mensal)": 2.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Descartáveis Café",
+      "Item": "Guardanapos de Papel Sache",
+      "Descrição": "Para uso nas mesas externas e balcão do Café",
+      "Unidade de Medida": "Caixa (c/ 2000 un)",
+      "Quantidade Estimada (Mensal)": 2.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Operacional",
+      "Item": "Saco de Lixo Reforçado 100L",
+      "Descrição": "Para lixeiras grandes do salão, área externa e cozinha",
+      "Unidade de Medida": "Pacote (c/ 100 un)",
+      "Quantidade Estimada (Mensal)": 3.0
+    },
+    {
+      "Fornecedor": "Super Adega / Atacadão",
+      "Categoria": "Operacional",
+      "Item": "Saco de Lixo Comum 40L",
+      "Descrição": "Para as lixeiras menores dos banheiros e ilha AV",
+      "Unidade de Medida": "Pacote (c/ 100 un)",
+      "Quantidade Estimada (Mensal)": 2.0
+    },
+    {
+      "Fornecedor": "Leroy Merlin / Potiguar",
+      "Categoria": "Manutenção Geral",
+      "Item": "Lâmpadas LED Recarga (Reserva)",
+      "Descrição": "Lâmpadas de reposição para o salão interno",
+      "Unidade de Medida": "Unidade",
+      "Quantidade Estimada (Mensal)": 5.0
+    },
+    {
+      "Fornecedor": "Empresa Especializada",
+      "Categoria": "Serviços Fixos",
+      "Item": "Dedetização e Controle de Pragas",
+      "Descrição": "Manutenção mensal obrigatória pela Vigilância Sanitária",
+      "Unidade de Medida": "Serviço Mensal",
+      "Quantidade Estimada (Mensal)": 1.0
+    }
+  ],
+  "desp_operacionais": [
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Administrativa",
+      "Item": "Aluguel Imóvel Comercial",
+      "Descrição": "Locação do galpão/loja de 500m² (Centro de Taguatinga/Pistão Sul)",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Administrativa",
+      "Item": "Energia Elétrica (Neoenergia)",
+      "Descrição": "Consumo de alta tensão para fornos iluminação e equipamentos",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Administrativa",
+      "Item": "Água e Esgoto (CAESB)",
+      "Descrição": "Consumo do Café e banheiros (Desenho Universal)",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Administrativa",
+      "Item": "Internet Corporativa",
+      "Descrição": "Link dedicado para a operação e rede Mesh dos clientes",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Administrativa",
+      "Item": "Honorários Contábeis",
+      "Descrição": "Pagamento do escritório de contabilidade (obrigatório para CNPJ)",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Administrativa",
+      "Item": "Seguro Empresarial",
+      "Descrição": "Seguro contra incêndio e responsabilidade civil",
+      "Frequência": "Anual (Rateado)"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Administrativa",
+      "Item": "Wi-fi",
+      "Descrição": "Serviço de Intenernet conexão banda larga",
+      "Frequência": "mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Comerciais/Vendas",
+      "Item": "Marketing e Tráfego Pago",
+      "Descrição": "Impulsionamento em redes sociais focado no DF e materiais gráficos",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Operacionais",
+      "Subcategoria": "Comerciais/Vendas",
+      "Item": "Serviços Cloud e App",
+      "Descrição": "Hospedagem do banco de dados e APIs no GCP (após uso de créditos)",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas com Pessoal",
+      "Subcategoria": "Folha Base",
+      "Item": "Salários Base",
+      "Descrição": "Remuneração bruta dos 10 colaboradores (Café Educadores AV Limpeza)",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas com Pessoal",
+      "Subcategoria": "Encargos",
+      "Item": "INSS Patronal e FGTS",
+      "Descrição": "Tributos atrelados à folha de pagamento CLT",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas com Pessoal",
+      "Subcategoria": "Provisões",
+      "Item": "13º Salário e Férias",
+      "Descrição": "Provisão contábil (1/12 avos) para não descapitalizar no fim do ano",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas com Pessoal",
+      "Subcategoria": "Benefícios",
+      "Item": "Vale Transporte (VT) e Alimentação (VA)",
+      "Descrição": "Benefícios obrigatórios e acordos sindicais para os 10 funcionários",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Financeiras",
+      "Subcategoria": "Bancárias",
+      "Item": "Tarifas Conta PJ",
+      "Descrição": "Manutenção da conta corrente emissão de boletos",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Despesas Financeiras",
+      "Subcategoria": "Operacionais",
+      "Item": "Taxas de Gateway e Maquininha",
+      "Descrição": "Percentual descontado pelas operadoras sobre as vendas no App/Caixa",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Impostos",
+      "Subcategoria": "Tributos Federais/Estaduais",
+      "Item": "Simples Nacional (DAS)",
+      "Descrição": "Tributação unificada sobre o faturamento (Anexo I Comércio e Anexo III Serviços)",
+      "Frequência": "Mensal"
+    },
+    {
+      "Categoria Contábil": "Impostos",
+      "Subcategoria": "Taxas Governamentais",
+      "Item": "Alvarás e Licenças",
+      "Descrição": "Rateio da taxa de funcionamento e Vigilância Sanitária (GDF)",
+      "Frequência": "Anual (Rateado)"
+    }
+  ],
+  "Pessoal": [
+    {
+      "Setor": "Coffee Shop",
+      "Cargo/Função": "Atendente de Café / Barista",
+      "Quantidade": 3.0,
+      "Requisitos/Formação": "Ensino Médio e experiência em atendimento",
+      "Descrição das Atividades": "Preparo de bebidas | operação do sistema/caixa e suporte aos clientes com o app."
+    },
+    {
+      "Setor": "Clube de Leitura",
+      "Cargo/Função": "Educador Social",
+      "Quantidade": 4.0,
+      "Requisitos/Formação": "Ensino Superior Completo (Licenciatura em qualquer área)",
+      "Descrição das Atividades": "Mediação do clube de leitura | pesquisa comunitária | escuta ativa e coleta primária de dados territoriais."
+    },
+    {
+      "Setor": "Clube de Leitura",
+      "Cargo/Função": "Técnico de Áudio e Vídeo",
+      "Quantidade": 1.0,
+      "Requisitos/Formação": "Conhecimento técnico em captação e edição AV",
+      "Descrição das Atividades": "Gravação | transmissão ao vivo | operação da mesa de som e edição do material dos encontros."
+    },
+    {
+      "Setor": "Operacional",
+      "Cargo/Função": "Auxiliar de Limpeza (Serviços Gerais)",
+      "Quantidade": 2.0,
+      "Requisitos/Formação": "Ensino Fundamental",
+      "Descrição das Atividades": "Higienização pesada diária dos banheiros (Desenho Universal) | cozinha | salão e recolhimento de resíduos."
+    }
+  ],
+  "Pesquisa_Resultados": [],
+  "Configuracoes": [
+    {
+      "Parâmetro de Configuração": "GEMINI_API_KEY",
+      "Valor": "AIzaSyD66FDMPAWZicC6AJmDXAhhhVfBBfMldM8"
+    },
+    {
+      "Parâmetro de Configuração": "GOOGLE_SEARCH_CX",
+      "Valor": "967a13e8b49984ca5"
+    },
+    {
+      "Parâmetro de Configuração": "GOOGLE_SEARCH_KEY",
+      "Valor": "AIzaSyD16_eC7ZvNuOXUgV_9C-DyKLSym-HeFlA"
+    }
+  ]
+}
