@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .CustomScrollbar::-webkit-scrollbar {
+    width: 8px;
+  }
+  .CustomScrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .CustomScrollbar::-webkit-scrollbar-thumb {
+    background: #334155; /* slate-700 */
+    border-radius: 4px;
+  }
+  .CustomScrollbar::-webkit-scrollbar-thumb:hover {
+    background: #475569; /* slate-600 */
+  }
+
+  .CustomScrollbarX::-webkit-scrollbar {
+    height: 6px;
+  }
+  .CustomScrollbarX::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .CustomScrollbarX::-webkit-scrollbar-thumb {
+    background: #334155;
+    border-radius: 3px;
+  }
+  .CustomScrollbarX::-webkit-scrollbar-thumb:hover {
+    background: #475569;
+  }
+}
