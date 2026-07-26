@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Segundo Exercício: Aula 4</title>
+    <title>Meu Quarto Exercício</title>
     <style>
         body{
             background-color: green;
@@ -17,13 +17,12 @@
     </style>
 </head>
 <body>
-    <h1>Meu Segundo Exercício</h1>
-    <p><b>Olá, Mundo!</b></p>
-    <p> Já me livrei da maldição.</p>
+    <h1>Quarto Exercício</h1>
     <script>
-        window.alert('Minha primeira mensagem de alerta');
-        window.confirm('Está gostando do curso?');
-        window.prompt('Qual é o seu nome?');
+        var nome = window.prompt('Qual é o seu nome?');
+        document.write(`Seu nome tem ${nome.length} letras.`);
+        document.write(`Seu nome em maiúsculas é ${nome.toUpperCase()}.`);
+        document.write(`Seu nome em minúsculas é ${nome.toLowerCase()}.`);
     </script>
 </body>
 </html>
