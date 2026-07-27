@@ -33,21 +33,17 @@ n.innerText --> pega o texto sem as filhas;
 
 n.innetHtml --> traz o texto com as filhas.
 
-
-
 Por ID
 
 ```
 getElementsById()
 ```
 
-
 por Nome
 
 ```
 getElementsByName()
 ```
-
 
 por Classe
 
@@ -61,3 +57,5 @@ por Seletor
 querySelector()
 querySelectorAll() // plural
 ```
+
+**ID - # / classe - .**
