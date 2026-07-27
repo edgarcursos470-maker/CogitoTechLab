@@ -1,4 +1,3 @@
-
 altert() - faz uma mensagem aparecer na tela do usuário;
 prompt() - interage com o usuário pedindo para inserir informações;
 document.write() - escreve algo na tela do usuário;
@@ -13,7 +12,52 @@ n.length - retorna a quantidade de caracteres de uma string;
 n.toUpperCase() - tudo para maiúsculas;
 n.toLowerCase() - tudo para minúsculas
 
+toFixed - método para number (float/double) e retorna uma string e não um number;
+n.toFixed(x) - determina quantidade de casas decimais;
+n.toFixed(x).replace('.', ',') - troca o ponto, pela vígula;
+n.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })
 
 ⚠️ alert(), prompt() e document.write(): essas três funções são específicas para execução no navegador (Browser/DOM) e não funcionam nativamente no Node.js;
 
 ⚠️ Number.parseInt() e Number.parseFloat(): Também funcionam usando apenas parseInt() e parseFloat() diretamente no código.
+
+Métodos para Navegar no DOM
+
+Por Marca ou por TagName
+
+```
+getElementsByTagName()
+```
+
+n.innerText --> pega o texto sem as filhas;
+
+n.innetHtml --> traz o texto com as filhas.
+
+
+
+Por ID
+
+```
+getElementsById()
+```
+
+
+por Nome
+
+```
+getElementsByName()
+```
+
+
+por Classe
+
+```
+getElementsByClassName()
+```
+
+por Seletor
+
+```
+querySelector()
+querySelectorAll() // plural
+```
