@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Você Vive no melhor País do Mundo?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        body {
+            background-color: #f0f0f0;
+            color: #333;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Você Vive no melhor País do Mundo?</h1>
+    Em qual país você vive? <input type="text" name="txtpais" id="txtpais">
+    <input type="button" value="Verificar" onclick="verificar()">
+    <div id= "res"> 
+    </div>
+    <script>
+        const verificar = () => {
+            var pais = window.document.querySelector('input#txtpais')
+            var res = window.document.querySelector('div#res')
+            if (pais.value.toLowerCase() == 'brasil') {
+                res.innerHTML = `<p>Você vive no <strong>${pais.value}</strong>, o melhor país do mundo!</p>`
+            } else {
+                res.innerHTML = `<p>Você vive no <strong>${pais.value}</strong>, mas não é o melhor país do mundo.</p>`
+            }
+            
+        }
+    </script>
+</body>
+</html>
